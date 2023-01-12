@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection
-In this project, machine learning algorithms were developed to identify a credit card transaction fraudulent or legitimate. 
+Using a dataset of 2.8 M rows of credit card transaction information, various machine learning algorithms were trained. 96% accuracy was achieved in detecting fraudulent credit card transactions with a Support Vector Machines model.
+
